@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kurs": {
+      "commandName": "Project",
+      "commandLineArgs": "Paweł"
+    }
+  }
+}
